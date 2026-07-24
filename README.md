@@ -2,6 +2,10 @@
 
 A full-stack notes application built with a Node.js backend and a React frontend. This app allows users to create, read, update, and delete notes with rate limiting and a clean, responsive UI.
 
+## Demo
+
+https://github.com/user-attachments/assets/d0f09ae7-f700-42c7-be5b-3795b77a2315
+
 ## Backend
 
 The backend is built using Node.js and Express.js, providing RESTful APIs for note management. It includes middleware for rate limiting to prevent abuse and uses Upstash for Redis-based caching and rate limiting.
